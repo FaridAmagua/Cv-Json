@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Roberson Amagua Lema",
+    "label": "Full Stack Developer and System IT",
+    "image": "me.webp",
+    "email": "faridamagua@live.com",
+    "phone": "604319181",
+    "url": "https://www.linkedin.com/in/farid-amagua/",
+    "summary": "+6 años de experiencia en el sector tecnológico, con un enfoque especializado en soporte y sistemas. Actualmente, inmerso en entornos de desarrollo, he contribuido en diversas startups como desarrollador junior. He trabajado en equipos reducidos y startups, donde he aportado mi experiencia y creatividad para alcanzar los objetivos planteados.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "farid_amagua",
+        "url": "https://www.linkedin.com/in/farid-amagua/"
+      },
+      {
+        "network": "GitHub",
+        "username": "farid_amagua",
+        "url": "https://github.com/FaridAmagua"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LLYC",
+      "position": "System Administrator",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-20",
+      "summary": "Gestión de Active Directory (AD) en entorno Windows Server 2022, abarcando usuarios, equipos y permisos. Conocimientos en BetterCloud para configuración de firmas, grupos y correos dentro del dominio. Habilidad en programación con Bash y Batch para la automatización de instalaciones y tareas en sistemas Windows/Mac.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "DevTech",
+      "position": "Laravel Junior Developer",
+      "startDate": "2023-09-01",
+      "endDate": "2023-05-01",
+      "summary": "Diseño y la implementación de una API robusta utilizando Laravel 7, aplicando migraciones para gestionar eficientemente la estructura de la base de datos. Integración de Frontend con Vue creación de interfaces de usuario dinámicas y atractivas utilizando Vue.js, mejorando la experiencia del usuario.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Mulesol SL",
+      "position": "Angular Junior Developer",
+      "startDate": "2023-01-01",
+      "endDate": "2022-12-15",
+      "summary": "Desarrollo web utilizando Angular 14, Bootstrap, Angular Material y PL/SQL para la gestión de bases de datos.Realización de consultas SQL, creación de vistas, stored procedures y queries para la gestión de datos.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+    "institution": "Joyfe",
+    "url": "https://joyfe.iepgroup.es/",
+    "area": "Grado Superior En Desarollo Apliaciones Web ",
+    "studyType": "Higher Grade",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Joyfe",
+    "url": "https://joyfe.iepgroup.es/",
+    "area": "Grado Superior En Desarollo De Apliaciones Multiplataforma",
+    "studyType": "Higher Grade",
+    "startDate": "2020-01-01",
+    "endDate": "2022-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Salesianos Santo Domingo el Savio",
+    "url": "https://salesianosdosa.com/",
+    "area": "Grado Medio En Sistemas Microinformáticos Y Redes",
+    "studyType": "Intermediate Education",
+    "startDate": "2018-01-01",
+    "endDate": "2020-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Sql",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": ".Net",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Jpa",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Nativo  "
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Barber Shop",
+      "isActive": false,
+      "description": "Mi primer proyecto en 2021 para la reserva citas",
+      "highlights": [
+        "Java",
+        "Sql",
+        "Php"
+      ],
+      "url": "https://github.com/FaridAmagua/Proyecto-Peluqueria",
+      "github":"https://github.com/FaridAmagua/Proyecto-Peluqueria"
+    },
+    {
+      "name": "Fiestas Madrid",
+      "isActive": false,
+      "description": "Crud Rest Api Backend para un proyecto de entradas",
+      "highlights": [
+        "Typescript","Jwt","Js","Docker"
+      ],
+      "url": "https://github.com/FaridAmagua/Fiestas-Back"
+    },
+    {
+      "name": "Fiestas Madrid",
+      "description": "Diseño de front para la consumicion y administración de la Api",
+      "highlights": [
+        "Angular14",
+        "Bootstrap",
+        "Js"
+      ],
+      "url": "https://github.com/FaridAmagua/Fiestas-Front"
+    },
+    {
+      "name": "Curriculum",
+      "isActive": true,
+      "description": "Curriculum realizado con JSON Resume",
+      "highlights": [
+        "Typescript","Jwt","Js","Docker"
+      ],
+      "url": "https://github.com/FaridAmagua/Cv-Json"
+    },
+    {
+      "name": "Sistema Ventas",
+      "isActive": false,
+      "description": "Formularios de para un sistema de ventas Con Visual Basic y Sql",
+      "highlights": [
+       "Vb",
+       "Sql"
+      ],
+      "url": "https://github.com/FaridAmagua/Formulario-Sistema-Ventas"
+    },
+    {
+      "name": "Cookie Clicker",
+      "isActive": false,
+      "description": "Uno de los primeros juegos realizados con Wpf y .Net framework",
+      "highlights": [
+        "Wpf",
+        "C#",
+        "Xaml"
+      ],
+      "url": "https://github.com/FaridAmagua/Cookie-Clicker-Wpf",
+      "github": "https://github.com/FaridAmagua/Cookie-Clicker-Wpf"
+    }
+  ]
+}
