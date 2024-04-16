@@ -29,6 +29,16 @@
   },
   "work": [
     {
+      "name": "GRUPO ORENES",
+      "position": "IT Specialist",
+      "startDate": "2024-02-01",
+      "endDate": "2024-12-01",
+      "summary": "Mi labor se enfoca en la revisión y verificación de bases de datos y servidores, así como en la validación de transacciones de juegos y la resolución de errores cotidianos relacionados con migraciones de datos. Además, colaboro estrechamente con el equipo en la revisión de tableros de Grafana y en la identificación de errores en diversas APIs mediante el análisis de registros de servicios.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "LLYC",
       "position": "System Administrator",
       "startDate": "2023-09-01",
@@ -161,6 +171,13 @@
       ]
     },
     {
+      "name": "Navision ERP",
+      "level": "básico",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
       "name": "Java",
       "level": "Intermedio",
       "keywords": [
@@ -214,13 +231,6 @@
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermedio",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
@@ -298,7 +308,7 @@
       "highlights": [
         "Typescript","Jwt","Js","Docker"
       ],
-      "url": "https://roberson-amagua.netlify.app/"
+      "url": "https://github.com/FaridAmagua/Cv-Json.git"
     },
     {
       "name": "Sistema Ventas",
