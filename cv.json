@@ -325,9 +325,8 @@
       "isActive": true,
       "description": "Scripts de venta de negocios en .LUA",
       "highlights": [
-        "Wpf",
-        "C#",
-        "Xaml"
+        "Lua",
+        "Mysql"
       ],
       "url": "https://github.com/FaridAmagua/StoreCommerce-V1.0",
       "github": "https://github.com/FaridAmagua/StoreCommerce-V1.0"
