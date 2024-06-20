@@ -321,16 +321,16 @@
       "url": "https://github.com/FaridAmagua/Formulario-Sistema-Ventas"
     },
     {
-      "name": "Cookie Clicker",
-      "isActive": false,
-      "description": "Uno de los primeros juegos realizados con Wpf y .Net framework",
+      "name": "StoreCommerce-V1.0",
+      "isActive": true,
+      "description": "Scripts de venta de negocios en .LUA",
       "highlights": [
         "Wpf",
         "C#",
         "Xaml"
       ],
-      "url": "https://github.com/FaridAmagua/Cookie-Clicker-Wpf",
-      "github": "https://github.com/FaridAmagua/Cookie-Clicker-Wpf"
+      "url": "https://github.com/FaridAmagua/StoreCommerce-V1.0",
+      "github": "https://github.com/FaridAmagua/StoreCommerce-V1.0"
     }
   ]
 }
