@@ -33,7 +33,7 @@
       "position": "IT Specialist",
       "startDate": "2024-02-01",
       "endDate": "2024-12-01",
-      "summary": "Mi labor se enfoca en la revisión y verificación de bases de datos y servidores, así como en la validación de transacciones de juegos y la resolución de errores cotidianos relacionados con migraciones de datos. Además, colaboro estrechamente con el equipo en la revisión de tableros de Grafana y en la identificación de errores en diversas APIs mediante el análisis de registros de servicios.",
+      "summary":  "Revisión y verificación de datos en SQL Server para validación de transacciones de juegos y la resolución de errores diarios relacionados con migraciones de datos. También me encargo de solucionar fallos en procesos de automatización mediante PowerShell o tareas programadas, así como de gestionar errores relacionados con los servidores donde están alojados estos servicios. Nos encargamos de la revisión de tableros de Grafana, Loki y Prometheus, y de la identificación de errores en diversas APIs mediante el análisis de registros de servicios.",
       "highlights": [
         "Started the company"
       ]
