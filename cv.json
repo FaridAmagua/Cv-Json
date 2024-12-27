@@ -29,10 +29,20 @@
   },
   "work": [
     {
+      "name": "ASTRZENECA",
+      "position": "Junior PowerBi Data Analyst",
+      "startDate": "2024-02-01",
+      "endDate": "2024-12-01",
+      "summary":  "Desarrollo de dashboards interactivos en Power BI para seguimiento de KPIs y análisis de tendencias. Conexión y transformación de datos desde Excel y SQL Server, aplicando Power Query y DAX. Colaboración con equipos internos para diseñar informes personalizados y documentar procesos para estandarizar reportes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "GRUPO ORENES",
       "position": "IT Specialist",
       "startDate": "2024-02-01",
-      "endDate": "2024-12-01",
+      "endDate": "2024-07-01",
       "summary":  "Revisión y verificación de datos en SQL Server para validación de transacciones de juegos y la resolución de errores diarios relacionados con migraciones de datos. También me encargo de solucionar fallos en procesos de automatización mediante PowerShell o tareas programadas, así como de gestionar errores relacionados con los servidores donde están alojados estos servicios. Nos encargamos de la revisión de tableros de Grafana, Loki y Prometheus, y de la identificación de errores en diversas APIs mediante el análisis de registros de servicios.",
       "highlights": [
         "Started the company"
@@ -264,14 +274,51 @@
       "Ferrets",
       "Unicorns"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "Barber Shop",
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+      }],
+      "projects": [
+        {
+          "name": "SQL Barber Shop",
+          "isActive": true,
+          "description": "Parte de desarollo de nuestra base de datos en SQL",
+          "highlights": [
+            "Javascript",
+            "Mysql",
+            "Css",
+            "React"
+          ],
+          "url": "https://github.com/FaridAmagua/Fiestas-Sql",
+          "github": "https://github.com/FaridAmagua/Fiestas-Sql"
+        },
+        {
+        "name": "Barber Site",
+        "isActive": true,
+        "description": "Desarollo web deploy de prueba",
+        "highlights": [
+          "Javascript",
+          "Mysql",
+          "Css",
+          "React"
+        ],
+        "url": "https://673a7d3dc6cb3700080e2db8--boisterous-creponne-0dcc6d.netlify.app/",
+        "github": "https://github.com/FaridAmagua/Alcortebarber"
+      },
+        {
+          "name": "StoreCommerce FIVEM",
+          "isActive": true,
+          "description": "Scripts de venta de negocios en .LUA para servidores de GTA V",
+          "highlights": [
+            "Lua",
+            "Mysql"
+          ],
+          "url": "https://github.com/FaridAmagua/StoreCommerce-V1.0",
+          "github": "https://github.com/FaridAmagua/StoreCommerce-V1.0"
+        },
+        {
+          "name": "Barber Shop",
       "isActive": false,
       "description": "Mi primer proyecto en 2021 para la reserva citas",
       "highlights": [
@@ -306,30 +353,19 @@
       "isActive": true,
       "description": "Curriculum realizado con JSON Resume",
       "highlights": [
-        "Typescript","Jwt","Js","Docker"
+        "Typescript","Jwt","Js"
       ],
       "url": "https://github.com/FaridAmagua/Cv-Json.git"
     },
     {
       "name": "Sistema Ventas",
       "isActive": false,
-      "description": "Formularios de para un sistema de ventas Con Visual Basic y Sql",
+      "description": "Una prueba para leer formularios y hojas de ACCES  Con Visual Basic y Sql",
       "highlights": [
        "Vb",
        "Sql"
       ],
       "url": "https://github.com/FaridAmagua/Formulario-Sistema-Ventas"
-    },
-    {
-      "name": "StoreCommerce-V1.0",
-      "isActive": true,
-      "description": "Scripts de venta de negocios en .LUA",
-      "highlights": [
-        "Lua",
-        "Mysql"
-      ],
-      "url": "https://github.com/FaridAmagua/StoreCommerce-V1.0",
-      "github": "https://github.com/FaridAmagua/StoreCommerce-V1.0"
-    }
+    } 
   ]
 }
